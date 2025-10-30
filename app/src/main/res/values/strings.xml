@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">loksyon</string>
+    <string name="call_button" />
+    <string name="back"><![CDATA[< BACK]]></string>
+    <string name="msg_button">msg_button</string>
+    <string name="log_out">log out</string>
+    <string name="hello">Hello,</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="must_be_at_least_6_characters_long">● must be at least 6 characters long.</string>
+    <string name="locate">LOCATE</string>
+    <string name="copy">COPY</string>
+    <string name="no_account_cick_here_to">No account? Cick here to</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>

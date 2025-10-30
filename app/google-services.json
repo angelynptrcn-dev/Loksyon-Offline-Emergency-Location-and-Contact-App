@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909778072513",
+    "project_id": "loksyon-b1347",
+    "storage_bucket": "loksyon-b1347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909778072513:android:d6da6d9cae685e5dba3540",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnNaWLsFstdoEAk8QtWMnYo8bqFsU-c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909778072513:android:356f27d914d6caecba3540",
+        "android_client_info": {
+          "package_name": "com.example.loksyon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnNaWLsFstdoEAk8QtWMnYo8bqFsU-c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

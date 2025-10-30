@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">loksyon</string>
+    <string name="call_button" />
+    <string name="back"><![CDATA[< BACK]]></string>
+    <string name="msg_button">msg_button</string>
+    <string name="log_out">log out</string>
+    <string name="hello">Hello,</string>
+</resources>
