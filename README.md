@@ -1,6 +1,8 @@
 📍 About the Project - 
 Developed in late 2023 as a 2nd-year BSIT project, this Android application was created after about one month of experience with Android Studio. It’s a bit messy, but still impressive for someone who barely knew what they were doing back then. All resources used were free, and the login and account creation features were implemented using Firebase Authentication.
 
+![Alt text](https://github.com/angelynptrcn-dev/Loksyon-Offline-Emergency-Location-and-Contact-App/blob/4d2c179662a981f8f29caf1519bc88113b549305/loksyonscreenshot.jfif)
+
 📍 About the Application - 
 Loksyon (short for Lokasyon Aksyon) is an Android application that aims to assist users , especially tourists or unfamiliar residents in quickly locating themselves and contacting emergency providers in the area.
 
