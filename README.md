@@ -4,7 +4,7 @@ Developed in late 2023 as a 2nd-year BSIT project, this Android application was 
 ![Alt text](https://github.com/angelynptrcn-dev/Loksyon-Offline-Emergency-Location-and-Contact-App/blob/4d2c179662a981f8f29caf1519bc88113b549305/loksyonscreenshot.jfif)
 
 📍 About the Application - 
-Loksyon (short for Lokasyon Aksyon) is an Android application that aims to assist users , especially tourists or unfamiliar residents in quickly locating themselves and contacting emergency providers in the area.
+Loksyon (short for Lokasyon Aksyon) is a simple Android application created to assist users , especially tourists or unfamiliar residents in quickly locating themselves and contacting emergency providers in the area.
 
 ✨ Features - 
 The application works offline after login and allows users to view their latitude and longitude directly on a map. It includes an option to copy the displayed location to the clipboard for quick use in text messages. A built-in directory provides contact details for key emergency providers in the city, such as the PNP, DPWH, hospitals, and fire department. Users can call or text these services directly through the app, and in urgent situations, send pre-filled emergency messages that automatically include their current coordinates.
